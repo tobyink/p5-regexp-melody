@@ -1,0 +1,4 @@
+Regexp-Melody-*
+/.build/
+*.swp
+/ffi/_build/
