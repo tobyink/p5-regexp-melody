@@ -2,9 +2,8 @@ package Regexp::Melody;
 use 5.014;
 use warnings;
 
-our $VERSION = '0.001000';
-
 # ABSTRACT: Melody is a language that compiles to regular expressions, while aiming to be more readable and maintainable
+# VERSION
 
 =head1 SYNOPSIS
 
