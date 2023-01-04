@@ -34,7 +34,7 @@ extra_importers = Test2::V0
 [ClassHierarchies::ProhibitExplicitISA]
 [ClassHierarchies::ProhibitOneArgBless]
 [CodeLayout::ProhibitHardTabs]
-allow_leading_tabs = 0
+allow_leading_tabs = 1
 [CodeLayout::ProhibitTrailingWhitespace]
 [CodeLayout::RequireConsistentNewlines]
 [ControlStructures::ProhibitLabelsWithSpecialBlockNames]
