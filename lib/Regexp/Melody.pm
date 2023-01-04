@@ -3,7 +3,7 @@ use 5.014;
 use warnings;
 
 # ABSTRACT: Melody is a language that compiles to regular expressions, while aiming to be more readable and maintainable
-# VERSION
+our $VERSION = '0.001000';
 
 =head1 SYNOPSIS
 
