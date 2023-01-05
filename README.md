@@ -1,4 +1,4 @@
-# Regexp::Melody ![linux](https://github.com/tobyink/Regexp-Melody/workflows/linux/badge.svg)
+# Regexp::Melody ![linux](https://github.com/tobyink/p5-regexp-melody/workflows/linux/badge.svg)
 
 Melody is a language that compiles to regular expressions, while aiming to be more readable and maintainable
 
